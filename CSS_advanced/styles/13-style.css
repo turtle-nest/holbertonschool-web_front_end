@@ -38,7 +38,7 @@ body {
     line-height: var(--line-height-base);
 }
 
-/* Target anchor elements that contain a hyperlink */
+/* Set foreground color and remove text decoration only for anchor elements with href */
 a[href] {
     color: var(--text-color);
     text-decoration: none;
