@@ -233,6 +233,8 @@ ul.row {
     color: var(--nav-item-link-hover);
 }
 
+/* background and hover state to services */
+
 .card-services .card-title {
     margin: 0;
 }
